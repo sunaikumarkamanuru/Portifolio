@@ -189,7 +189,7 @@ const portfolioData = {
     },
     emails: [
       "kamanurusunaikumar@gmail.com",
-      // "sb8470@srmist.edu.in",
+      // "sk9808@srmist.edu.in",
     ],
     // Social links in the contact box (can differ from header)
     socialLinks: {
